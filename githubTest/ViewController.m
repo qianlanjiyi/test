@@ -13,6 +13,9 @@
 @end
 
 @implementation ViewController
+- (IBAction)testGitHub:(UIButton *)sender {
+    NSLog(@"test xyy");
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
