@@ -13,6 +13,12 @@
 @end
 
 @implementation ViewController
+- (IBAction)btn1:(UIButton *)sender {
+    NSLog(@"xyy test btn1");
+}
+- (IBAction)btn2:(UIButton *)sender {
+    NSLog(@"xyy test btn2");
+}
 
 
 - (void)viewDidLoad {
