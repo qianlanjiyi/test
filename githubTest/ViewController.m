@@ -14,7 +14,7 @@
 
 @implementation ViewController
 - (IBAction)testGitHub:(UIButton *)sender {
-    NSLog(@"test xyy");
+    NSLog(@"test xyy github");
 }
 
 - (void)viewDidLoad {
